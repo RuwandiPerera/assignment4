@@ -1,0 +1,16 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "You are requested to develop a game for children. The game's main objective is to enhance children's object recognition and language abilities. On the left side of the game page, an animal name will be displayed then the player has to click the correct animal image among 16 animals. If the player made the correct choice, the result shows win otherwise lose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
